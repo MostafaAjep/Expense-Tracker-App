@@ -1,16 +1,28 @@
-# expenses_app
+Expenses Tracker App
 
-A new Flutter project.
+Description
+This Expenses Tracker app is built using the Flutter framework and allows users to efficiently manage their expenses. It supports both dark and light themes and provides a responsive user interface.
 
-## Getting Started
+Features
+Add Expense: Users can add an expense with its title, amount, date, and category.
+Expense Chart: Visual representation of expenses in a chart.
+Responsive Design: Ensures optimal viewing and interaction experience across a wide range of devices.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Installation
+To run the app locally, follow these steps:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+git clone https://github.com/MostafaAjep/Expense-Tracker-App
+cd expenses-tracker
+flutter pub get
+flutter run
+
+
+
+Contributing
+Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
